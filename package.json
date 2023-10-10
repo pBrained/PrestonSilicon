@@ -1,0 +1,26 @@
+{
+  "name": "prestonsilicon",
+  "version": "1.0.0",
+  "description": "The web server portfolio that recruiters love!",
+  "main": "app.js ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pBrained/PrestonSilicon.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react",
+    "jest",
+    "web",
+    "backend"
+  ],
+  "author": "pBrained",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/pBrained/PrestonSilicon/issues"
+  },
+  "homepage": "https://github.com/pBrained/PrestonSilicon#readme"
+}
