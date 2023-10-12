@@ -8,7 +8,6 @@ function App() {
     <div className="App">
       <div className="background" style={{ backgroundImage: `url(${background})`}}>
           {
-            <img src={logo} className='App-logo'></img>
           }
       </div>
     </div>
