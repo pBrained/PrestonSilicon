@@ -4,10 +4,9 @@
 
 .App-logo {
   position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  height: 40vmin;
+  top: 1%;
+  left: 0%;
+  height: 10vmin;
   pointer-events: none;
   display: flex;
   align-items: center;
@@ -21,7 +20,6 @@
 }
 
 .App-header {
-  /*background-color: #282c34;*/
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -45,12 +43,10 @@
 }
 
 .background {
-  background-image: url('./img/BG-01.svg'); /* Update the path to your SVG */
-  background-size: cover; /* Adjust to your needs */
-  background-position: left;
-  background-repeat: repeat;/* Adjust to your needs */
+  background-image: url('./img/BG-01.svg');
+  background-size: cover; 
+  background-position: left top;
+  background-repeat: no-repeat;
   width: 100vw;
-  height: 300vmin;
-
-  /* Other background properties */
+  height: 100vh;
 }
